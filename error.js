@@ -9,7 +9,3 @@ throw new CustomError("This is our custom error ");
 
 
 // handle exception using try and catch
-
-try{
-    doSomething();
-}
