@@ -1,6 +1,6 @@
 const promise = new Promise((resolve, reject) => {
     console.log("Async task execution....")
-    throw "error re baba";
+    // throw "error re baba";
     if (true) {
         const person = {
             name: "Sanmit"
